@@ -1,6 +1,7 @@
 # Personal Portfolio Website in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="950" alt="Screenshot 2024-10-25 195418" src="https://github.com/user-attachments/assets/070266a5-c6cf-4802-8aea-65a871d9854b">
 
 
 Built using:
